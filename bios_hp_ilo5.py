@@ -303,6 +303,8 @@ elif not post_state3 and not post_state4 in json_string :
 else:
     print("Step 8 - Check workload profile is now custom: Workload is now custom and all the steps have been completed!")
 
+    #Teste
+
 
 
 
